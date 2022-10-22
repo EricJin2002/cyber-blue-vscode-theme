@@ -13,7 +13,9 @@
 		"vscode": "*"
 	},
 	"icon": "icon.png",
-	"categories": ["Themes"],
+	"categories": [
+		"Themes"
+	],
 	"contributes": {
 		"themes": [
 			{
@@ -31,11 +33,14 @@
 		]
 	},
 	"__metadata": {
-		"installedTimestamp": 1644986112405,
+		"installedTimestamp": 1666457810560,
 		"id": "ecf1d739-2ec7-4ce6-a817-230fc9a3ba1e",
 		"publisherId": "d4547a32-33cb-43b7-9e02-dbe2c450db1f",
 		"publisherDisplayName": "Eric Jin",
 		"isPreReleaseVersion": false,
-		"preRelease": false
+		"preRelease": false,
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true
 	}
 }
