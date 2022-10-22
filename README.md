@@ -9,5 +9,5 @@
 
 ## Demo
 
-![demo](https://raw.githubusercontent.com/EricJin2002/cyber-blue-vscode-theme/master/demo.png)
+![demo](demo.png)
 
