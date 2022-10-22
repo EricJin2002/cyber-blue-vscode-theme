@@ -1,0 +1,40 @@
+{
+	"name": "theme-cyber-blue",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.4.0",
+	"license": "MIT",
+	"publisher": "EricJin2002",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EricJin2002/cyber-blue-vscode-theme"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"icon": "https://raw.githubusercontent.com/EricJin2002/cyber-blue-vscode-theme/main/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"id": "Eric's HC TNB",
+				"label": "Cyber Blue",
+				"uiTheme": "hc-black",
+				"path": "./themes/eric-hc-tnb.json"
+			},
+			{
+				"id": "Eric's HC NO",
+				"label": "Cyber Night",
+				"uiTheme": "hc-black",
+				"path": "./themes/eric-hc-no.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1644986112405,
+		"id": "ecf1d739-2ec7-4ce6-a817-230fc9a3ba1e",
+		"publisherId": "d4547a32-33cb-43b7-9e02-dbe2c450db1f",
+		"publisherDisplayName": "Eric Jin",
+		"isPreReleaseVersion": false,
+		"preRelease": false
+	}
+}
