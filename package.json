@@ -2,7 +2,7 @@
 	"name": "theme-cyber-blue",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"license": "MIT",
 	"publisher": "EricJin2002",
 	"repository": {
@@ -12,7 +12,7 @@
 	"engines": {
 		"vscode": "*"
 	},
-	"icon": "https://raw.githubusercontent.com/EricJin2002/cyber-blue-vscode-theme/main/icon.png",
+	"icon": "icon.png",
 	"contributes": {
 		"themes": [
 			{
